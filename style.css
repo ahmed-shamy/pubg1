@@ -15,7 +15,7 @@ body {
 	font-family: 'Teko';
 }
 .container {
-	background: url(../img/container.jpg) no-repeat center center;
+	background: url(https://i.ibb.co/H2y8Hrr/container.jpg) no-repeat center center;
 	background-size: cover;
 	position: relative;
 	margin: 0px auto;
@@ -28,7 +28,7 @@ body {
 	padding-top: 13px;
 }
 .header {
-    background: url(../img/header.jpg) no-repeat;
+    background: url(https://i.ibb.co/0GFmf9d/header.jpg) no-repeat;
     background-size: 100% 100%;
     width: 94%;
     height: 210px;
@@ -49,7 +49,7 @@ body {
     overflow: none;
 }
 .menu {
-    background: url(../img/off.png) no-repeat;
+    background: url(https://i.ibb.co/wWkJcGF/off.png) no-repeat;
     background-size: 100% 100%;
     width: 30%;
     height: 43px;
@@ -63,7 +63,7 @@ body {
     cursor: pointer;
 }
 .active {
-    background: url(../img/on.png) no-repeat;
+    background: url(https://i.ibb.co/6HHykCh/on.png) no-repeat;
     background-size: 100% 100%;
 	color: #e0d49f;
 }
@@ -80,7 +80,7 @@ body {
     scrollbar-arrow-color: #ffbb40;
 }
 .alert {
-    background: url(../img/alert.png) no-repeat;
+    background: url(https://i.ibb.co/XxJSTRr/alert.png) no-repeat;
     background-size: 100% 100%;
     width: 94%;
     height: auto;
@@ -133,7 +133,7 @@ body {
 	border-top-right-radius: 5px;
 }
 .item button {
-    background: url(../img/alert.png) no-repeat;
+    background: url(https://i.ibb.co/XxJSTRr/alert.png) no-repeat;
     background-size: 100% 100%;
     width: 100%;
     height: auto;
@@ -164,7 +164,7 @@ body {
     border: 1px solid #e0d49f;
 }
 .balance {
-	background: url(../img/alert.png) no-repeat;
+	background: url(https://i.ibb.co/XxJSTRr/alert.png) no-repeat;
     background-size: 100% 100%;
 	width: 93%;
 	height: 62px;
@@ -242,7 +242,7 @@ body {
 	text-transform: uppercase;
 }
 .popup-box {
-    background: url(../img/popup.png) no-repeat;
+    background: url(https://i.ibb.co/vZmrRYv/popup.png) no-repeat;
     background-size: 100% 100%;
 	width: 375px;
 	height: auto;
@@ -272,7 +272,7 @@ body {
 	display: block;
 }
 .popup-btn {
-    background: url(../img/on.png) no-repeat center;
+    background: url(https://i.ibb.co/6HHykCh/on.png) no-repeat center;
     background-size: 100% 100%;
     width: 35%;
     height: 40px;
@@ -314,7 +314,7 @@ body {
     float: left;
 }
 .input-anjir {
-	background: url(../img/alert.png) no-repeat;
+	background: url(https://i.ibb.co/XxJSTRr/alert.png) no-repeat;
     background-size: 100% 100%;
 	width: 93%;
 	height: auto;
@@ -332,7 +332,7 @@ body {
 	color: #e0d49f;
 }
 .select-anjir {
-	background: url(../img/alert.png) no-repeat;
+	background: url(https://i.ibb.co/XxJSTRr/alert.png) no-repeat;
 	background-color: #15252B;
     background-size: 100% 100%;
 	width: 93%;
@@ -348,7 +348,7 @@ body {
     border-radius: 5px;
 }
 .finish-wrapper {
-	background: url(../img/popup.png) no-repeat center;
+	background: url(https://i.ibb.co/vZmrRYv/popup.png) no-repeat center;
     background-size: 100% 100%;
 	width: 94%;
 	height: auto;
@@ -362,7 +362,7 @@ body {
 	display: block;
 }
 .finish-btn {
-    background: url(../img/on.png) no-repeat center;
+    background: url(https://i.ibb.co/6HHykCh/on.png) no-repeat center;
     background-size: 100% 100%;
     width: 35%;
     height: 42px;
